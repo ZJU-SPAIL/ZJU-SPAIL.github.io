@@ -1,0 +1,30 @@
+# 基础站点配置
+title: "SPAIL @ 浙江大学"
+description: "系统性能分析智能实验室 - 软硬件协同优化"
+remote_theme: pages-themes/minimal@v0.2.0
+
+# 导航链接
+navigation:
+  - title: "Director"
+    url: "https://kingsum.github.io/"
+  - title: "企业合作"
+    url: "https://youtune.tech/"
+  - title: "成为学生"
+    url: "https://person.zju.edu.cn/kingsum"
+
+# 社交链接
+github:
+  username: ZJU-SPAIL
+
+# 插件
+plugins:
+  - jekyll-remote-theme
+
+# 主题自定义
+minimal:
+  skin: "light"  # 确保白色背景
+
+# 站点变量
+lab_name: "SPAIL (System Performance Analytics and Intelligence Lab)"
+slogan: "Data-Driven Performance. Hardware-Aware Intelligence."
+location: "浙江大学软件学院（宁波）"
