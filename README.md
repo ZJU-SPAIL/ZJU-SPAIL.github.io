@@ -1,4 +1,4 @@
- SPAIL - 系统性能分析智能实验室
+# SPAIL - 系统性能分析智能实验室
 
 **Data-Driven Performance. Hardware-Aware Intelligence.**
 
@@ -20,6 +20,7 @@ SPAIL是浙江大学软件学院的研究实验室，专注于解决云、AI和�
 ### 实验室主任
 **周经森 (Kingsum Chow)**  
 浙江省顶尖人才，前阿里巴巴首席科学家、Intel高级首席工程师。Java全球标准委员会JCP-EC首位中国成员，拥有中美专利72+项，发表论文135+篇。
+[GitHub 主页](https://kingsum.github.io/) | [浙江大学个人主页](https://person.zju.edu.cn/kingsum)
 
 ### 核心研究员
 - **吴克强**：前Intel/Oracle，芯片缓存设计与AI性能优化专家，10+项美国专利
