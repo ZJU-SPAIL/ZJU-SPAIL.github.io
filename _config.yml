@@ -1,16 +1,8 @@
 # 基础站点配置
-title: "SPAIL"
+title: "SPAIL|Kingsum"
 description: "系统性能分析智能实验室 - 软硬件协同优化"
 remote_theme: jekyll/minima
 
-# 导航链接
-navigation:
-  - title: "Director"
-    url: "https://kingsum.github.io/"
-  - title: "企业合作"
-    url: "https://youtune.tech/"
-  - title: "成为学生"
-    url: "https://person.zju.edu.cn/kingsum"
 
 # 社交链接
 github:
