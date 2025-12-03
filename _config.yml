@@ -1,7 +1,7 @@
 # 基础站点配置
-title: "SPAIL @ 浙江大学"
+title: "SPAIL"
 description: "系统性能分析智能实验室 - 软硬件协同优化"
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll/minima
 
 # 导航链接
 navigation:
@@ -20,9 +20,7 @@ github:
 plugins:
   - jekyll-remote-theme
 
-# 主题自定义
-minimal:
-  skin: "light"  # 确保白色背景
+
 
 # 站点变量
 lab_name: "SPAIL (System Performance Analytics and Intelligence Lab)"
