@@ -266,27 +266,8 @@ I have delivered keynotes at major industry conferences, including **4 appearanc
 
 ---
 
-## 5️⃣ Endorsements
 
-> "Kingsum is considered a leading expert across the software and hardware industry for accurate data collection, intuitive analysis and identify optimizations... His knowledge of production systems at scale... resulted in significant performance improvements."
->
-> — **Anil Rajput**, AMD Fellow
-
-> "Kingsum's achievements in the realm of software-hardware co-optimization are truly noteworthy. He stands as a globally recognized authority in this domain. His profound understanding and significant international impact... has spurred innovation."
->
-> — **Prof. Yuan Xie**, HKUST (IEEE Fellow, ACM Fellow)
-
-> "He has a deep understanding of Intel processors and how to use performance optimization techniques to tune the hardware... He has led have groundbreaking performance improvements."
->
-> — **Vish Viswanathan**, Intel Fellow
-
-> "Kingsum is a world-leading expert in this field... widely recognized for his expertise in performance, modeling, and analysis of software applications, with a long history of high-impact work in industry."
->
-> — **Prof. Ed Lazowska**, University of Washington (Member of NAE, AAAS Fellow)
-
----
-
-## 6️⃣ Patents
+## 5️⃣ Patents
 
 <details>
   <summary style="cursor: pointer; padding: 10px 0;"><b>🇺🇸 Granted US Patents（24）</b></summary>
