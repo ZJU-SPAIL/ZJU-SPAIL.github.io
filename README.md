@@ -57,7 +57,7 @@ SPAIL是浙江大学软件学院的研究实验室，专注于解决云、AI和�
 **核心优势：**
 - **产业级导师团队**：导师均来自Intel、阿里巴巴、腾讯等头部企业，拥有双11、腾讯会议等大规模系统优化实战经验
 - **真实场景研究**：合作项目直接来自华为、字节跳动、快手等行业伙伴
-- **充足资源保障**：健康科研经费支持，提供实习、交流和职业发展机遇
+- **充足资源保障**：充足的科研经费支持，提供实习、交流和职业发展机遇
 
 ---
 
@@ -82,8 +82,9 @@ SPAIL是浙江大学软件学院的研究实验室，专注于解决云、AI和�
 
 ## 研究领域
 
-1. **PIPA统一性能分析平台**  
-   集成化框架，覆盖数据采集、清洗、领域知识转换、可复现分析与决策
+1. **PIPA统一性能分析平台**  [GitHub仓库](https://github.com/ZJU-SPAIL/pipa)
+   -PIPA（Progressive & Intelligent Performance Analytics，枇杷）是一个集成了性能数据收集、处理与分析的全链路工具平台。它支持从 perf、sar 等多源收集数据，适配 x86_64、ARM、RISC-V 等多平台，能生成数据采集脚本、处理并可视化数据，还将集成先进算法进行深度分析，帮助用户快速识别系统和应用的性能瓶颈，挖掘优化机会。
+   -项目结构以 “枇杷” 为喻：树（数据收集与处理）、花（分析）、果（结论），目前重点开发 “树” 模块。用户可通过pip install PyPIPA安装，用pipa generate生成定制化采集脚本，轻松开展性能分析工作。
 
 2. **软硬件协同优化**
    - 微架构分析与性能/功耗优化
@@ -223,7 +224,7 @@ SPAIL是浙江大学软件学院的研究实验室，专注于解决云、AI和�
 ### 🔗[SPAIL Lab (System Performance Analytics and Intelligence Lab)](https://github.com/ZJU-SPAIL)
 *Leading a team of industry veterans and top researchers to solve bottlenecks in Cloud, AI, and Big Data.*
 
-### 🔗[PIPA - SPAIL](https://github.com/kingsum/PIPA/wiki)
+### 🔗[PIPA - SPAIL](https://github.com/ZJU-SPAIL/pipa)
 **Platform for Integrated Performance Analytics**
 A unified framework designed to describe, analyze, and optimize system performance across heterogeneous architectures.
 
